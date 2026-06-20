@@ -178,8 +178,8 @@ Add images, videos, or GIFs here showcasing:
 
 ## 👨‍💻 Author
 
-**Md. Arkive , ** 
-**Md. Zobaer Islam , **
+**Md. Arkive  ,** 
+**Md. Zobaer Islam  ,**
 **Siddatul Muntaha Chowdhury Mahin**
 
 
