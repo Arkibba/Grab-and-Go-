@@ -178,9 +178,10 @@ Add images, videos, or GIFs here showcasing:
 
 ## 👨‍💻 Author
 
-**Md. Arkive**
+**Md. Arkive , ** 
+**Md. Zobaer Islam , **
+**Siddatul Muntaha Chowdhury Mahin**
 
-Robotics | Embedded Systems | Computer Vision | Automation
 
 ---
 
